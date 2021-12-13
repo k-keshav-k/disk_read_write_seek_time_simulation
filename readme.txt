@@ -1,9 +1,5 @@
 README
 
-Submitter Name: Keshav Krishna
-Roll No.:       2019csb1224
-Course:         CS303
-
 1.  What does this program do 
 This program simulates read, write and seek operations of a disk.
 It takes in parameters - rotational speed of disk, r revolutions per minute, average seek time and sector size.
